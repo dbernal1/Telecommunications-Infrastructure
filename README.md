@@ -1,5 +1,5 @@
 # dbernal
-Analyses Telecommunication Infrastructure at a Country Level
+Analysis of Telecommunication Infrastructure at a Country Level
 
 For this project I have selected to analyze aspects of telecommunications infrastructure. This is a sector that has been seen as a key driver that brings opportunity for growth in many sectors of an economy. There is a significant number of researches that have focused on different aspects at a country and industry level. For this analysis we will be focusing on 62 countries for the 2000-2018 period.
 
